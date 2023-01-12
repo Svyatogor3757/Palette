@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Lang name="English" filename="english.xml" version="1.0.0">
+<Item id="Color" text="Color"/>
+<Item id="Color palette" text="Color palette"/>
+<Item id="Pipette" text="Pipette"/>
+<Item id="Other" text="Other.."/>
+<Item id="Settings" text="Settings"/>
+<Item id="Format" text="Format output"/>
+<Item id="Palette Parameters" text="Palette Parameters"/>
+<Item id="Reference" text="Reference"/>
+<Item id="Save Colors" text="Save Colors"/>
+<Item id="Hide" text="Hide"/>
+<Item id="Transparency Management" text="Transparency Management"/>
+<Item id="Color Cube size" text="Color cube size"/>
+<Item id="Reset Window size" text="Reset window size"/>
+<Item id="Load History from a file" text="Load history from a file"/>
+<Item id="Save History to a file" text="Save history to a file"/>
+<Item id="Clear History" text="Clear history"/>
+<Item id="Undo history cleanup" text="Return history"/>
+<Item id="Copy to clipboard" text="Copy to clipboard {0}"/>
+<Item id="About" text="An application for working with colors and copying colors to the clipboard.\nHistory of selected colors and loading HEX colors of the format (#FFFFFF) from a file is available.\nPipette - to work with the eyedropper, hold down the eyedropper button and hover over the desired area\nClick on a color:\ nSingle click - display color,\nDouble click - copy to clipboard.\n"/>
+<Item id="Filter Save" text="Text files|*.txt"/>
+<Item id="Filter Open" text="All files|*.*"/>
+</Lang>
