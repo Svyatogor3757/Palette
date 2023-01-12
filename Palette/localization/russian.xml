@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Lang name="Русский" filename="russian.xml" version="1.0.0">
+<Item id="Color" text="Цвет"/>
+<Item id="Color palette" text="Палитра цветов"/>
+<Item id="Pipette" text="Пипетка"/>
+<Item id="Other" text="Другие.."/>
+<Item id="Settings" text="Настройки"/>
+<Item id="Format" text="Формат вывода"/>
+<Item id="Palette Parameters" text="Параметры палитры"/>
+<Item id="Reference" text="Справка"/>
+<Item id="Save Colors" text="Сохранять цвета"/>
+<Item id="Hide" text="Скрывать"/>
+<Item id="Transparency Management" text="Управление прозрачностью"/>
+<Item id="Color Cube size" text="Размер кубика цвета"/>
+<Item id="Reset Window size" text="Сбросить размер окна"/>
+<Item id="Load History from a file" text="Загрузить историю из файла"/>
+<Item id="Save History to a file" text="Сохранить историю в файл"/>
+<Item id="Clear History" text="Очистить историю"/>
+<Item id="Undo history cleanup" text="Вернуть очищенную историю"/>
+<Item id="Copy to clipboard" text="Скопировано {0} в буфер обмена"/>
+<Item id="About" text="Приложение для работы с цветами и копированием цвета в буфер обмена.\nДоступна история выбранных цветов и загрузка HEX цветов формата (#FFFFFF) из файла.\nПипетка - для работы с пипеткой зажмите кнопку пипетка и наведите на нужную область\nКлик по цвету:\nОдиночный клик - отобразить цвет,\nДвойной клик - скопировать в буфер обмена.\n"/>
+<Item id="Filter Save" text="Текстовые файлы|*.txt"/>
+<Item id="Filter Open" text="Все файлы|*.*"/>
+</Lang>
