@@ -30,4 +30,4 @@ The application can be downloaded - [download](Palette.zip).
 HEX, AHEX, RGB, ARGB, ARGB(Visual studio), HSV, HSL, COLORREF(BGA)
 (В будущем можно будет добавить модульную версию цветового формата)
 В данном репозитории можно найти исходный код и готовое приложение. 
-Приложение можно скачать - [тут](Palette.zip).
+Приложение можно скачать - [скачать](Palette.zip).
