@@ -4,7 +4,7 @@
 
 An application for working with colors and copying colors to the clipboard.
 Features:
-1. The history of the selected colors is available and loading /saving HEX colors in the format (#FFFFFF) from / to a file.
+1. The history of the selected colors is available and loading/saving HEX colors in the format (#FFFFFF) from/to a file.
 2. Pipette - to work with the pipette, hold down the pipette button and hover over the desired area
 3. Copy to Clipboard
 click on color:
@@ -21,7 +21,7 @@ The application can be downloaded - [download](Palette.zip).
 # Палитра
 Приложение для работы с цветами и копирования в буфер обмена.
 Особенности:
-1. История выбранных цветов и загрузка /сохранение HEX цветов в формате (#FFFFFF) из / в файл.
+1. История выбранных цветов и загрузка/сохранение HEX цветов в формате (#FFFFFF) из/в файл.
 2. Пипетка - для работы с пипетками удерживайте нажатой кнопку пипетки и наведите курсор на нужную область для того, чтобы получить цвет
 3. Скопировать в буфер обмена
 обмена нажмите на цвет:

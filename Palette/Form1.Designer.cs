@@ -115,7 +115,7 @@ namespace Palette
             this.toolStripMenuItem2,
             this.HelpToolStripMenuItem});
             this.contextMenuStrip.Name = "contextMenuStrip1";
-            this.contextMenuStrip.Size = new System.Drawing.Size(181, 98);
+            this.contextMenuStrip.Size = new System.Drawing.Size(181, 120);
             // 
             // FormatToolStripMenuItem
             // 
@@ -205,7 +205,7 @@ namespace Palette
             this.SaveColorToolStripMenuItem.CheckState = System.Windows.Forms.CheckState.Checked;
             this.SaveColorToolStripMenuItem.Name = "SaveColorToolStripMenuItem";
             this.SaveColorToolStripMenuItem.Size = new System.Drawing.Size(225, 22);
-            this.SaveColorToolStripMenuItem.Text = "{SaveColors}";
+            this.SaveColorToolStripMenuItem.Text = "{Save Colors}";
             this.SaveColorToolStripMenuItem.Click += new System.EventHandler(this.SaveColorsToolStripMenuItem_Click);
             // 
             // HideToolStripMenuItem
@@ -307,7 +307,7 @@ namespace Palette
             // defaultToolStripMenuItem
             // 
             this.defaultToolStripMenuItem.Name = "defaultToolStripMenuItem";
-            this.defaultToolStripMenuItem.Size = new System.Drawing.Size(180, 22);
+            this.defaultToolStripMenuItem.Size = new System.Drawing.Size(112, 22);
             this.defaultToolStripMenuItem.Text = "Default";
             // 
             // toolStripMenuItem2
