@@ -14,6 +14,7 @@ double click - copy to clipboard.
 HEX, AHEX, RGB, ARGB, ARGB(Visual studio), HSV, HSL, COLORREF(BGA)
 (In the future, it will be possible to add a modular version of the color format)
 
+The program is created in C#.Net Framework 4.7.2 in Visual studio environment (IDE).
 In this repository, you can find the source code and the finished application. 
 The application can be downloaded - [download](Palette.zip).
 
@@ -29,5 +30,7 @@ The application can be downloaded - [download](Palette.zip).
 4. Отображение цветов в формате: 
 HEX, AHEX, RGB, ARGB, ARGB(Visual studio), HSV, HSL, COLORREF(BGA)
 (В будущем можно будет добавить модульную версию цветового формата)
+
+Программа создана на языке C# .Net Framework 4.7.2 в среде Visual studio
 В данном репозитории можно найти исходный код и готовое приложение. 
 Приложение можно скачать - [скачать](Palette.zip).
